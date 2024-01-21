@@ -2,6 +2,7 @@
   "name": "osrs-trends",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://sthoresen.github.io/osrs-trends-frontend",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
