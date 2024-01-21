@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 50444,
+    "Item": "Whip",
+    "Price": "1005k",
+    "Expected Return": "3%",
+    "Buy Limit": 24,
+    "Volume": "17b"
+  },
+  {
+    "Id": 6969,
+    "Item": "Red herring",
+    "Price": 54,
+    "Expected Return": "42%",
+    "Buy Limit": 69000,
+    "Volume": "200b"
+  },
+  {
+    "Id": 408,
+    "Item": "Hardcoded cod",
+    "Price": 13,
+    "Expected Return": "0%",
+    "Buy Limit": 16000,
+    "Volume": "5k"
+  }
+]
