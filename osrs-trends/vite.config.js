@@ -17,5 +17,5 @@ export default defineConfig({
             { find: '@src', replacement: '/src' },
         ],
     },
-    base: '/osrs-trends-frontend/osrs-trends/',
+    base: '/osrs-trends-frontend/',
 });

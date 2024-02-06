@@ -14,6 +14,7 @@ function App() {
             <Routes>
                 <Route path="/" element={<Trends />} />
                 <Route path="/returns" element={<Returns />} />
+                <Route path="/osrs-trends-frontend/" element={<Trends />} />
                 <Route path="/about" element={<About />} />
             </Routes>
         </section>

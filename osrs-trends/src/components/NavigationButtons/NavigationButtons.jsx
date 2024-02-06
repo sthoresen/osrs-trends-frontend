@@ -28,7 +28,7 @@ const NavigationButtons = () => {
 
     return (
         <div style={navBarStyle}>
-            <Link to="/" style={{ ...navBarItemStyle, opacity: pathname === '/' ? 1 : 0.65 }}>
+            <Link to="/" style={{ ...navBarItemStyle, opacity: pathname === '/' || pathname === '/osrs-trends-frontend/' ? 1 : 0.65 }}>
                 Trends
             </Link>
 
